@@ -1,0 +1,2 @@
+add_lunch_combo omni_elink8321_tb_m-eng
+add_lunch_combo omni_elink8321_tb_m-userdebug
